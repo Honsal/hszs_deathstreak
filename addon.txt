@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "ZombieSurvival DeathStreak"
+	"author_name" "[KOR]혼살"
+	"info" "Zombies getting more powerful while they go hungry."
+}
